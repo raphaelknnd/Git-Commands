@@ -7,7 +7,7 @@
 
 - **git branch -M "main"**: Muda o nome da branch de master para main.
 
-- **git remote add origin 'url do repositório'**: Apelida o repositório do github  de origin e faz a conexão do repositório da  máquina com o github.
+- **git remote add origin 'url do repositório'**: Apelida o repositório do github  de origin e faz a conexão do repositório da  máquina com o github. Tente utilizar o "Shift + Insert" ou digitar a url para evitar o "Git fatal: protocol 'https' is not supported".
 - **git push -u origin "branch"**: Envia de fato os arquivos para o repositório no github.
 
 - **git checkout -b "nome da branch"**: -b cria uma nova branch, e o checkout muda de branch
