@@ -1,4 +1,4 @@
-# ================ GIT E GITHUB ================
+## ================ GIT E GITHUB ================
 
 - **Repository** - Pasta do projeto.
 - **Branch** - Ramificação do código; 
